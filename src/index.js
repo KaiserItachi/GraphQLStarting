@@ -5,6 +5,10 @@ let links = [{
 	id: 'link-0',
 	url: 'www.howtographql.com',
 	description: 'Fullstack tutorial for GraphQL'
+},{
+	id: 'link-1',
+	url: 'wwww.startWars.com',
+	description: 'May the force be with you'
 }]
 
 //1
